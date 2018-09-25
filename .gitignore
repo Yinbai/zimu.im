@@ -1,7 +1,23 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+
+# production
+.deploy*/
+public/
+
+# misc
 .DS_Store
+
 Thumbs.db
 db.json
-*.log
-node_modules/
-public/
-.deploy*/
+
+yarn.lock
+
+# log
+*.log*
+
+# ide
+.vscode
+.idea
