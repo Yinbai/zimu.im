@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 子沐的记事本
+title: 小子的记事本
 ? subtitle
 ? description
 ? keywords
-author: Zi Mu
+author: Yinbai
 ? language
 ? timezone
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zimu.im
+url: https://cuptea.net
 root: /
 permalink: :year/:month/:day/:title/
 ? permalink_defaults
