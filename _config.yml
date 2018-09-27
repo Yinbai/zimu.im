@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小子的记事本
-? subtitle
+title: 堆栈溢出
+subtitle: 当你凝视 BUG 时，BUG 也在凝视着你
 ? description
 ? keywords
-author: Yinbai
-? language
+author: Zi Mu
+language: zh-CN
 ? timezone
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://cuptea.net
+url: https://zimu.im
 root: /
 permalink: :year/:month/:day/:title/
 ? permalink_defaults
