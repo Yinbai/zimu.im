@@ -3,4 +3,4 @@
 	url = git@github.com:Yinbai/Yinbai.github.io.git
 [submodule "themes/minos"]
 	path = themes/minos
-	url = https://github.com/Yinbai/hexo-theme-minos.git
+	url = git@github.com:Yinbai/hexo-theme-minos.git

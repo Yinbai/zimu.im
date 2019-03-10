@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 堆栈溢出
-subtitle: 当你凝视 BUG 时，BUG 也在凝视着你
-? description
-? keywords
+title: TypeError
+subtitle: Cannot read property
+description: 前端博客
+keywords: 前端, 博客
 author: Zi Mu
-language: zh-CN
+language: zh-cn
 ? timezone
 
 # URL
