@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TypeError
-subtitle: Cannot read property
+title: 堆栈溢出
+subtitle: 当你凝视bug时，bug也正凝视着你
 description: 前端博客
 keywords: 前端, 博客
 author: Zi Mu
